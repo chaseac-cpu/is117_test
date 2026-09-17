@@ -35,37 +35,43 @@ Robert Cialdini is often cited for identifying patterns that regularly shape hum
 
 People feel obliged to return a favor or a kindness. If someone gives us something valuable, we often feel a need to repay it in some way.
 
-Example: a free sample, a useful consultation, or a thoughtful gift can make a person more open to listening later.
+Example: a clothing brand might include a genuinely useful wash-and-care guide with its plain white T-shirt. The guide can make a shopper more open to the brand, but it should not create a hidden obligation to buy.
 
 ### 2. Commitment and consistency
 
 People prefer to act in ways that are consistent with what they have already said or done. Once a person makes a small public commitment, it becomes harder to back away from a larger one.
 
-Example: a person who says, "I care about sustainable products," may be more likely to buy a product framed as eco-friendly.
+Example: a person who says, "I care about durable basics," may be more likely to consider the same white T-shirt when its real construction and care instructions support that claim.
 
 ### 3. Social proof
 
 People look to others to decide what is normal, safe, or desirable. If many other people are doing something, it often feels more trustworthy.
 
-Example: a product with many positive reviews may feel less risky than an unfamiliar option.
+Example: verified customer reviews saying that a white T-shirt holds its shape after washing can make the purchase feel less risky. Reviews must be real and representative.
 
 ### 4. Authority
 
 People tend to trust experts, titles, and familiar institutions. A message often becomes more persuasive when it appears to come from a credible source.
 
-Example: a product explained by a recognized specialist may feel more reliable than the same product described by a random seller.
+Example: a textile specialist explaining the shirt's fabric weight and care needs can be useful; an impressive-looking title without relevant expertise is not.
 
 ### 5. Liking
 
 We are more likely to say yes to people we like, connect with, or find relatable. Familiarity, similarity, and warmth all matter.
 
-Example: a brand that feels friendly and approachable can feel more trustworthy than a harsh or distant brand.
+Example: a brand whose models and writing feel relatable may make a shopper more comfortable considering its white T-shirt.
 
 ### 6. Scarcity
 
 People often value something more when it feels limited or hard to get. Scarcity creates urgency.
 
-Example: a product described as available in a short time window or in limited quantity may seem more desirable.
+Example: a true notice that a particular run of white T-shirts is nearly sold out may help a shopper plan. A fake countdown timer turns scarcity into manipulation.
+
+### 7. Unity
+
+People are often more receptive to people and groups they see as part of "us"—a shared family, community, identity, or purpose. Unity is related to liking, but it is specifically about belonging to the same group.
+
+Example: a campus organization may present the white T-shirt as a shirt for its volunteer day. That shared purpose can be meaningful, as long as the message does not suggest that someone must buy it to belong.
 
 ## Other useful ideas from psychology and communication
 
@@ -111,6 +117,7 @@ A clear message reduces cognitive load. It helps people focus on what matters.
 | Authority | People trust expertise and status | Use credible expertise clearly and honestly | Pretending to be an expert or hiding conflicts of interest |
 | Liking | People respond more to people they identify with | Build rapport through clarity, respect, and relevance | Manipulative flattery or fake familiarity |
 | Scarcity | Limited availability creates urgency | Clearly state real constraints and deadlines | Artificial scarcity or fear-based pressure |
+| Unity | Shared identity or purpose builds connection | Invite genuine participation in a group or cause | Making belonging conditional on a purchase |
 | Framing | Context changes interpretation | Present options fairly and honestly | Distorting the decision by hiding alternatives |
 | Loss aversion | Fear of missing out motivates action | Use urgency to help people act on real needs | Exploiting anxiety to create rushed decisions |
 
@@ -171,7 +178,17 @@ This version connects the product to social meaning, culture, or self-expression
 - persuasion style: identity, social proof, liking
 - emotional tone: belonging and expression
 
-The shirt remains the same, but the framing changes how people interpret it. This is a key idea in persuasion: the product is not only what it is physically; it is also the story, context, and value that surround it.
+### The same shirt, three frames
+
+Imagine that each version is the same plain white, cotton T-shirt: same fabric, fit, price, and manufacturing. Only the communication changes.
+
+| Frame | What the audience is invited to notice | Example headline | Ethical boundary |
+| --- | --- | --- | --- |
+| Practical | Its role as an easy everyday basic | "One clean, simple layer for busy mornings." | Do not imply exceptional durability unless it has been tested. |
+| Premium | Care, materials, or construction | "An everyday essential, made with careful attention to detail." | Do not use luxury language to hide ordinary quality. |
+| Identity | The meaning a wearer connects to it | "A simple blank canvas for your own style." | Do not claim the shirt proves someone is stylish, responsible, or part of a group. |
+
+The shirt remains the same, but the framing changes what people notice and how they interpret it. This is a key idea in persuasion: the product is not only what it is physically; it is also the story, context, and value that surround it. Ethical framing adds perspective; it does not replace facts.
 
 ## Ethical caution
 
